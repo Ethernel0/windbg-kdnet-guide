@@ -1,4 +1,4 @@
-A "simple" and "straight forward" way to setup a Windows debugging environement:
+# A "simple" and "straight forward" way to setup a Windows debugging environement:
 
 # 1 - REQUIREMENTS
   
