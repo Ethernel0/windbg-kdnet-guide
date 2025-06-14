@@ -60,8 +60,8 @@ now you can type in "kdnet.exe [HOST-IPV4 WE GOT EARLIER] [Choose a port (recomm
   Be sure that you chose the right Network adapter for the kdnet command (section3.3/3.5) in my case VMWare have multiple adapters !
   Be sure that no external anti-virus or firewall is blocking the communication.
   
-  If nothing works, use REVOUninstaller and remove the hypervisor and Windows SDK, delete and create a new VM.
-  Don't forget to restart your PC between major changes like Windows SDK install etc....
+  If nothing works, use "REVO Uninstaller" and remove Windows SDK/WDK, delete and create a new VM.
+  Don't forget to restart your PC between major changes like Windows SDK/WDK install etc....
   
 # 5 - What's the use ?
   If you searched for this guide, you already know but for those who don't. \
